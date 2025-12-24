@@ -17,6 +17,12 @@ public class project {
             System.out.println("입력한 값: " + s);
             //테스트 추가
             //테스트 추가 2
+            
+            
+            
+            
+            
+            //테스트 추가 3
         }
     }
 }
