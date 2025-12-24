@@ -15,6 +15,7 @@ public class project {
                 break;
             }
             System.out.println("입력한 값: " + s);
+            //테스트 추가
         }
     }
 }
